@@ -1,0 +1,12 @@
+This project will collect data from multiple municipalities in an effort to compare Coronavirus response and help public health officers,
+researchers, and analysts find trends and share information. 
+The data are collected on multiple platforms such as Socrata and ArcGIS, have diverse metadata elements, are open-source, and downloadable.
+Data should be updated frequently in accordance with a published schedule to ensure constancy and the recency of the data.
+
+As a researcher or data analyst, I want curated data so that I can study coronavirus trends in multiple cities.
+
+As a curious citizen, I want data that is easy to read, search, and sort in order to learn more about municipal Coronavirus trends.
+
+As a data curator, I want a template of how to manage data from multiple cities.
+
+
